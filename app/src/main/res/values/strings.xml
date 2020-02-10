@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginWithGoogle</string>
+    <string name="click_button_to_signin_with_google_account">Click Button to Signin with Google account.</string>
+    <string name="login_failed">Login Failed!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="logout_failed">Logout Failed!</string>
+</resources>
